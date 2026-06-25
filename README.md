@@ -1,1 +1,1 @@
-HW and exercises from NI2026
+Repository for homework and exercises from NI2026.
